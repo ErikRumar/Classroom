@@ -14,7 +14,7 @@ class Person:
         pass
 
 class Student:
-    def __init__(self, class, course) -> None:
+    def __init__(self, group, course) -> None:
         pass
     
 class Teacher:
